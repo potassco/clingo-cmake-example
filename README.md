@@ -1,6 +1,7 @@
 # Clingo C/C++ Example
 
-This example show how a minimal cmake based project can use the clingo library.
+This example shows how a minimal cmake based project can use the clingo
+library.
 
 The easiest way to get started is to install the required tools via [conda]. (I
 would recommend to install Miniconda but Anaconda works, too.) The commands
