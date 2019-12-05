@@ -2,9 +2,10 @@
 
 This example show how a minimal cmake based project can use the clingo library.
 
-The easiest way to get started is to install the required tools via anaconda.
-The commands below assume that you are using Linux. Other operating systems
-might require slightly different commands/packages to be installed.
+The easiest way to get started is to install the required tools via [conda]. (I
+would recommend to install Miniconda but Anaconda works, too.) The commands
+below assume that you are using Linux. Other operating systems might require
+slightly different commands/packages to be installed.
 
 We assume that conda is already installed and the base environment is activated.
 
@@ -58,3 +59,5 @@ Calls        : 1
 Time         : 0.000s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
 CPU Time     : 0.000s
 ```
+
+[conda]: https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html
